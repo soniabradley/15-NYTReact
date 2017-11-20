@@ -1,5 +1,9 @@
 # 15-NYTReact
 
+Cd 15-NYTReact
+yarn start (should open React screen)
+
+
 NYT React Search
 
 Overview
