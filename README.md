@@ -1,6 +1,6 @@
 # 15-NYTReact
 
-Cd 15-NYTReact
+cd 15-NYTReact
 yarn start (should open React screen)
 
 
