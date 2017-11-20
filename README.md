@@ -1,8 +1,7 @@
 # 15-NYTReact
-
+To open this app, open terminal and enter;
 cd 15-NYTReact
 yarn start (should open React screen)
-
 
 NYT React Search
 
